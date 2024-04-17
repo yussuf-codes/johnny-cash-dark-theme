@@ -1,0 +1,21 @@
+{
+  "name": "johnny-cash-dark-theme",
+  "displayName": "johnny-cash-dark-theme",
+  "description": "Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Johnny Cash",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Johnny Cash-color-theme.json"
+      }
+    ]
+  }
+}
