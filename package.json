@@ -2,6 +2,10 @@
   "name": "johnny-cash-dark-theme",
   "displayName": "johnny-cash-dark-theme",
   "publisher": "YoussefSalehAbdulSattar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yussuf-codes/johnny-cash-dark-theme.git"
+  },
   "description": "Dark Theme",
   "version": "0.0.1",
   "engines": {
