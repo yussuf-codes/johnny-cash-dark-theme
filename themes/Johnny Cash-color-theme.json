@@ -1,15 +1,21 @@
 {
 	"name": "Johnny Cash",
 	"colors": {
-		"button.background": "#000000",
 		"button.border": "#222222",
+		"button.separator": "#222222",
+		"button.background": "#000000",
 		"button.foreground": "#DDDDDD",
 		"button.hoverBackground": "#222222",
+		"button.secondaryBackground": "#000000",
+		"button.secondaryForeground": "#DDDDDD",
+		"button.secondaryHoverBackground": "#222222",
+
 		"checkbox.background": "#000000",
 		"checkbox.border": "#222222",
 		"checkbox.foreground": "#DDDDDD",
 		"checkbox.selectBackground": "#000000",
 		"checkbox.selectBorder": "#222222",
+
 		"editor.background": "#000000",
 		"editor.foreground": "#DDDDDD",
 		"editor.lineHighlightBackground": "#DADADA10",
@@ -17,22 +23,27 @@
 		"editorCursor.foreground": "#CCCCCC",
 		"editorGroupHeader.tabsBackground": "#000000",
 		"editorWhitespace.foreground": "#222222",
+
 		"badge.background": "#000000",
+
 		"list.inactiveSelectionBackground": "#000000",
 		"list.inactiveFocusBackground": "#444444",
 		"list.focusBackground": "#333333",
+
 		"activityBar.background": "#000000",
-		"activityBar.border": "#222222",
+		"activityBar.border": "#111111",
 		"activityBar.foreground": "#CCCCCC",
+
 		"sideBar.background": "#000000",
-		"sideBar.border": "#222222",
+		"sideBar.border": "#111111",
 		"sideBar.dropBackground": "#000000",
+
 		"tab.activeBorder": "#000000",
 		"tab.activeBorderTop": "#000000",
 		"tab.activeBackground": "#111111",
 		"tab.activeForeground": "#CCCCCC",
 		"tab.activeModifiedBorder": "#000000",
-		"tab.border": "#000000",
+		"tab.border": "#111111",
 		"tab.dragAndDropBorder": "#000000",
 		"tab.hoverBackground": "#111111",
 		"tab.hoverForeground": "#FFFFFF",
@@ -52,18 +63,32 @@
 		"tab.unfocusedInactiveBackground": "#000000",
 		"tab.unfocusedInactiveForeground": "#888888",
 		"tab.unfocusedInactiveModifiedBorder": "#000000",
+
 		"titleBar.activeBackground": "#000000",
 		"titleBar.activeForeground": "#CCCCCC",
-		"titleBar.border": "#000000",
+		"titleBar.border": "#111111",
 		"titleBar.inactiveBackground": "#000000",
-		"titleBar.inactiveForeground": "#CCCCCC",
+		"titleBar.inactiveForeground": "#888888",
+
 		"statusBar.background": "#000000",
-		"statusBar.foreground": "#CCCCCC",
+		"statusBar.border": "#111111",
+		"statusBar.foreground": "#888888",
+		"statusBar.debuggingBackground": "#000000",
+		"statusBar.debuggingBorder": "#222222",
+		"statusBar.debuggingForeground": "#CCCCCC",
+		"statusBar.noFolderBorder": "#222222",
 		"statusBar.noFolderBackground": "#000000",
+		"statusBar.noFolderForeground": "#CCCCCC",
+		"statusBar.focusBorder": "#222222",
+
 		"statusBarItem.remoteBackground": "#000000",
-		"statusBarItem.remoteForeground": "#CCCCCC",
+		"statusBarItem.remoteForeground": "#888888",
+		"statusBarItem.remoteHoverBackground": "#222222",
+		"statusBarItem.remoteHoverForeground": "#CCCCCC",
+
 		"menu.background": "#000000",
 		"menu.border": "#222222",
+
 		"input.background": "#222222"
 	},
 	"tokenColors": [
